@@ -2,7 +2,6 @@
 <html>
     <head>
         <meta charset="utf-8">
-        
         <title>
             ppsuedo selector
         </title>
@@ -22,7 +21,6 @@
             a:hover , a:active{
                 background-color: yellow;
                 color: rebeccapurple;
-
             }
             header li:nth-child(3){
                 font-size: 24px;
@@ -33,7 +31,6 @@
             section div:nth-child(3):hover{
                 background-color: red;
                 cursor: pointer;
-
             }
         </style>
     </head>
